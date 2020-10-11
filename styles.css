@@ -1,0 +1,25 @@
+div{
+	font-size: 2em ;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	text-align: center;
+	color: #424874;
+}
+div:hover{
+	font-size: 2.5em;
+
+}
+body{
+	margin-right: 25px;
+	margin-left: 25px;
+	background-color: #fccbcb;
+}
+
+p{
+	color:#39375b;
+
+}
+#message{
+	text-align: center;
+	font-size: 1.5em;
+}
